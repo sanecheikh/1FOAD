@@ -27,7 +27,6 @@ $json_deuxieme_ami_Raymond_Jimenez_obj ='{
     "couleur yeux":["blue"],
     "fruit favori":"apple",
     "Tags":"excitation ,sint,adipiscing,produit,sunt,exepteur,elit ",
-   
 }';
 $json_array_php = json_decode($json_deuxieme_ami_Raymond_Jimenez_obj,true);
 echo '<hr>';
