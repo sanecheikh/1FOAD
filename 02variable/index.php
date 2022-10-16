@@ -16,6 +16,7 @@ $z = 5;
 //$calcul = $x % $y;
 // $calcul = $y ** $x;
 $calcul = $x + ($y * $z);
+
 // echo $calcul;
 
 // affectation
