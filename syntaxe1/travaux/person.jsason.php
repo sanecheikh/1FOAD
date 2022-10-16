@@ -180,7 +180,7 @@
 },
 {
 "id": 1,
-"name": "Salazar Brooks"
+"name" : "Salazar Brooks"
 },
 {
 "id": 2,
